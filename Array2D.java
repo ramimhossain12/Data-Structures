@@ -19,6 +19,7 @@ public class  Array2D {
                 System.out.print(" "+num[row][col]);
             }
             System.out.println();
+
         }
     }
 }
