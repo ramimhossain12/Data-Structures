@@ -1,6 +1,6 @@
 package Ramim_Apps_Ltd.company.ff;
 
-public class  Array2D {
+public class Array_2D {
 
     public static void main(String[] args) {
 

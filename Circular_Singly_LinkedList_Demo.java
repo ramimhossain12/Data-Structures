@@ -1,6 +1,6 @@
 package Ramim_Apps_Ltd.company.ff;
 
-public class CircularSinglyLinkedListDemo {
+public class Circular_Singly_LinkedList_Demo {
 
     private ListNode last;
     private int length;
@@ -15,7 +15,7 @@ public class CircularSinglyLinkedListDemo {
         }
     }
 
-    public  CircularSinglyLinkedListDemo(){
+    public Circular_Singly_LinkedList_Demo(){
         last = null ;
         length =0;
 
@@ -46,7 +46,7 @@ public class CircularSinglyLinkedListDemo {
     public static void main(String[] args) {
 
 
-        CircularSinglyLinkedListDemo clsl = new CircularSinglyLinkedListDemo();
+        Circular_Singly_LinkedList_Demo clsl = new Circular_Singly_LinkedList_Demo();
 
         clsl.createCircularLinkList();
 

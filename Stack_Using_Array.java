@@ -1,6 +1,6 @@
 package Ramim_Apps_Ltd.company.ff;
 
-public class StackUsingArray {
+public class Stack_Using_Array {
 
 
     int capacity =3 ;
@@ -45,7 +45,7 @@ public class StackUsingArray {
 
     public static void main(String[] args) {
         System.out.println("Implementing My Stack ");
-        StackUsingArray obj = new StackUsingArray();
+        Stack_Using_Array obj = new Stack_Using_Array();
         System.out.println("Peek Returned:"+obj.peek());
         obj.push(30);
         obj.push(20);

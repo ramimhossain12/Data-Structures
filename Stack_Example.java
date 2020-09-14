@@ -2,7 +2,7 @@ package Ramim_Apps_Ltd.company.ff;
 
 import java.util.Stack;
 
-public class StackExample {
+public class Stack_Example {
     public static void main(String[] args) {
         Stack<String> ob = new Stack<>();
         // Add elements to Stack.......push() Method
