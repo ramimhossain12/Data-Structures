@@ -16,9 +16,9 @@
 7. Queue
 8. Array representation of Queue
 9. Linked List implementation of Queue
-10. Stylish Animation
-11.Circular Queue
-12.Binary Search Tree
+10. Circular Queue
+11. Binary Search Tree
+ 
 
 
 
