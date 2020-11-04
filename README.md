@@ -7,17 +7,18 @@
 
  # Features :
 
-1. CardView
-2. RecycleView
-3. Web View
-4. Rest API
-5. SQLite Database
-6. FireBase
-7. Push Notification
-8. material Design
-9. Image Library
+1. Linked List
+2. Doubly linked list
+3. Circular Singly Linked List
+4. Stack
+5. Array implementation of Stack
+6. Linked list implementation of stack
+7. Queue
+8. Array representation of Queue
+9. Linked List implementation of Queue
 10. Stylish Animation
-11. Shared preference
+11.Circular Queue
+12.Binary Search Tree
 
 
 
